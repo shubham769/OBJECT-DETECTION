@@ -61,18 +61,18 @@ Thanks @OlafenwaMoses for this model
  Then place this model and the image you want to detect to the folder that contains the Object_detection python file.
 * Execute the Object_detection.py file and wait for the result to the console like:
 
-`backpack  :  69.54809427261353
-motorcycle  :  51.88370943069458
-motorcycle  :  83.1535816192627
-person  :  66.27481579780579
-person  :  69.07155513763428
-person  :  79.24414873123169
-bicycle  :  64.439457654953
-bicycle  :  52.177244424819946
-person  :  86.37408018112183
-truck  :  76.61457061767578
-person  :  94.6185827255249
-bicycle  :  68.61521005630493
-bus  :  78.26051115989685`
+```ckpack  :  69.54809427261353 
+motorcycle  :  51.88370943069458 
+motorcycle  :  83.1535816192627 
+person  :  66.27481579780579 
+person  :  69.07155513763428 
+person  :  79.24414873123169 
+bicycle  :  64.439457654953 
+bicycle  :  52.177244424819946 
+person  :  86.37408018112183 
+truck  :  76.61457061767578 
+person  :  94.6185827255249 
+bicycle  :  68.61521005630493 
+bus  :  78.26051115989685```
 
 * After that check the folder for the new generated file with object detected tags.
