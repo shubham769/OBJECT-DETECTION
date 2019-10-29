@@ -1,4 +1,4 @@
-# OBJECT-DETECTION Using ImageAI
+# Object Detection Using ImageAI
 Thanks ImageAI for the library
 
 Built an object detection program with ImageAI
