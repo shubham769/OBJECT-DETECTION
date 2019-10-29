@@ -19,7 +19,7 @@ Now let’s get started.
 
 i. Tensorflow
 
-`pip3 install tensorflow`
+`pip3 install tensorflow==1.12.0`
 
 ii. Numpy
 
