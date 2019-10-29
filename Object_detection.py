@@ -7,7 +7,7 @@ detector = ObjectDetection()
 detector.setModelTypeAsRetinaNet()
 detector.setModelPath( os.path.join(execution_path , "resnet50_coco_best_v2.0.1.h5"))
 detector.loadModel()
-detections = detector.detectObjectsFromImage(input_image=os.path.join(execution_path , "traffic_new.jpg"), output_image_path=os.path.join(execution_path , "imagenew.jpg"))
+detections = detector.detectObjectsFromImage(input_image=os.path.join(execution_path , "traffic_Image.jpg"), output_image_path=os.path.join(execution_path , "traffic_imagenew.jpg"))
 
 for eachObject in detections:
     print(eachObject["name"] , " : " , eachObject["percentage_probability"] )
