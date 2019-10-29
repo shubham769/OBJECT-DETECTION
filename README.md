@@ -3,7 +3,7 @@ Thanks ImageAI for the library
 
 Built an object detection program with ImageAI
 
-![picture alt](https://github.com/shubham769/OBJECT-DETECTION/blob/master/Image_AI.png)
+![picture alt](https://github.com/shubham769/OBJECT-DETECTION/blob/master/traffic_detect.jpeg)
 
 
 To perform object detection using ImageAI, all you need to do is :
